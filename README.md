@@ -1,6 +1,6 @@
 # Chuan-Jia Jhang's Midterm Project: Color-detecting Machine
 
-![](http://gitlab.larc-nthu.net/105061224/midterm_project/raw/master/Pitcures/P_20180502_133507.jpg)
+![](https://github.com/Chestnut-Jhang/Embedded_System_Midterm_Project/blob/master/Pitcures/P_20180502_133507.jpg?raw=true)
 
 ## 1　Project Introduction
 
@@ -44,7 +44,7 @@ URL is the GitLab project URL: git@gitlab.larc-nthu.net:105061224/midterm_projec
 
 (5) Prepare some equipments and materials for the machine.
 
-![](http://gitlab.larc-nthu.net/105061224/midterm_project/raw/master/Pitcures/%E5%AE%8C%E6%95%B4%E6%A9%9F%E6%A7%8B%E5%9C%96.PNG)
+![](https://github.com/Chestnut-Jhang/Embedded_System_Midterm_Project/blob/master/Pitcures/%E5%AE%8C%E6%95%B4%E6%A9%9F%E6%A7%8B%E5%9C%96.PNG?raw=true)
 
 Equipment|Quantity
 ---------|--------
