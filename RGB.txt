@@ -1,0 +1,5 @@
+(Red, Blue, Green) = (24, 24, 30)
+(Red, Blue, Green) = (21, 22, 26)
+(Red, Blue, Green) = (21, 34, 27)
+(Red, Blue, Green) = (21, 21, 25)
+(Red, Blue, Green) = (22, 21, 26)
